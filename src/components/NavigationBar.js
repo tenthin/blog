@@ -7,7 +7,7 @@ import './NavigationBar.scss';
 function NavigationBar() {
   return (
     <div>
-        <Navbar className="navbar" bg="dark" variant="dark">
+        <Navbar bg="dark" variant="dark">
                 <Navbar.Brand>
                     Tenzin
                 </Navbar.Brand>
